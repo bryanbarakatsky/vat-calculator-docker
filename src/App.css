@@ -1,18 +1,18 @@
-.field{
+.field {
   width: 300px;
   padding-bottom: 20px;
 }
 
-.colour-border{
-  border: 3px solid green;
+.colour-border {
+  border: 3px solid navy;
   padding: 10px;
 }
 
-.header{
+.header {
   padding: 10px;
 }
 
-body{
+body {
   padding: 10px;
-  background-color: antiquewhite;
+  background-color: paleturquoise;
 }
